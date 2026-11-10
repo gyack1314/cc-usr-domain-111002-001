@@ -1,0 +1,165 @@
+{
+  "rows": [
+    {
+      "id": "DV-001",
+      "name": "巡检设备",
+      "site": "站点2",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-002",
+      "name": "巡检设备",
+      "site": "站点3",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-003",
+      "name": "举升设备",
+      "site": "站点4",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-004",
+      "name": "巡检设备",
+      "site": "站点1",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-005",
+      "name": "巡检设备",
+      "site": "站点2",
+      "state": "检修",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-006",
+      "name": "举升设备",
+      "site": "站点3",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-007",
+      "name": "巡检设备",
+      "site": "站点4",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-008",
+      "name": "巡检设备",
+      "site": "站点1",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-009",
+      "name": "举升设备",
+      "site": "站点2",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-010",
+      "name": "巡检设备",
+      "site": "站点3",
+      "state": "检修",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-011",
+      "name": "巡检设备",
+      "site": "站点4",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-012",
+      "name": "举升设备",
+      "site": "站点1",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-013",
+      "name": "巡检设备",
+      "site": "站点2",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-014",
+      "name": "巡检设备",
+      "site": "站点3",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-015",
+      "name": "举升设备",
+      "site": "站点4",
+      "state": "检修",
+      "category": "lift"
+    },
+    {
+      "id": "DV-016",
+      "name": "巡检设备",
+      "site": "站点1",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-017",
+      "name": "巡检设备",
+      "site": "站点2",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-018",
+      "name": "举升设备",
+      "site": "站点3",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-019",
+      "name": "巡检设备",
+      "site": "站点4",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-020",
+      "name": "巡检设备",
+      "site": "站点1",
+      "state": "检修",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-021",
+      "name": "举升设备",
+      "site": "站点2",
+      "state": "可用",
+      "category": "lift"
+    },
+    {
+      "id": "DV-022",
+      "name": "巡检设备",
+      "site": "站点3",
+      "state": "可用",
+      "category": "inspect"
+    },
+    {
+      "id": "DV-023",
+      "name": "巡检设备",
+      "site": "站点4",
+      "state": "可用",
+      "category": "inspect"
+    }
+  ]
+}

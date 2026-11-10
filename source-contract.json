@@ -1,0 +1,14 @@
+{
+  "phases": [
+    "base",
+    "reorder"
+  ],
+  "reorder": "首次向下滚动后更改修订与一个设备编号；同名设备一直存在",
+  "visible_evidence": [
+    "aria-rowindex",
+    "aria-rowcount",
+    "data-id",
+    "data-query",
+    "data-revision"
+  ]
+}
